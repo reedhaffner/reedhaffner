@@ -10,3 +10,6 @@ I'm Reed Haffner, a Computer Science student based in Sacramento, California.
 - 🌈 LGBTQ+ Ally, my pronouns are He/Him.
 
 #### Send me ideas to code! I need to expand my imagination! Just [make an issue here!](https://github.com/reedhaffner/reedhaffner/issues/new?assignees=reedhaffner&labels=idea&template=coding-idea.md&title=%5BIDEA%21%5D+)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ReedHaffner)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReedHaffner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
